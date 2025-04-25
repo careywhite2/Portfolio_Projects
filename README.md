@@ -2,7 +2,7 @@
 # Portfolio_Projects
 
 ## About
-Hi, I'm Carey and this is a repository to showcase SQL skills, share projects and track my progress in Data Analytics / Data Science related topics.
+Hi, I'm Carey and this is a repository to showcase SQL skills, share projects and track my progress in Data Analytics topics.
 
 ## Table of Contents
 - [Portfolio Projects]

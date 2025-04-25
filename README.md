@@ -23,6 +23,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** SQL Server
 
+
 ### Retail Sales Analysis
 **Code:** [`Retail Sales Analysis`](https://github.com/careywhite2/Portfolio_Projects/blob/main/SQL%20Retail%20Sales%20Analysis)
 **Description:** The project involves creating and populating a retail sales database to explore, clean, and analyze sales data. Steps include data loading, data cleaning to remove null or missing values, exploratory data analysis (EDA) to understand sales patterns, and answering key business questions using SQL queries.
@@ -30,6 +31,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Joins, Data Cleaning, Aggregate Functions, Exploratory Data Analysis (EDA), Business Insights
 
 **Technology:** SQL Server
+
 
 ### NBA Playstyle vs Ratings
 **Code:** [`NBA Playstyle vs Ratings`](https://github.com/careywhite2/Portfolio_Projects/blob/main/clean_nba-playstlye-vs-tvratings.sql)

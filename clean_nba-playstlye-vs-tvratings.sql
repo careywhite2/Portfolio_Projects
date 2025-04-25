@@ -57,3 +57,5 @@ SELECT season, team, fg, fga, x3p, x3pa, x2p, x2pa, ft, fta,
        orb, drb, trb, ast, stl, blk, tov, pf, pts
 FROM nba_data_files.`team totals`
 WHERE season NOT IN (1999, 2012, 2020, 2021) AND season >= 1980;
+
+-- End of project

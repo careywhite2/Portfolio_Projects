@@ -5,7 +5,7 @@
 Hi, I'm Carey and this is a repository to showcase SQL skills, share projects and track my progress in Data Analytics topics.
 
 ## Table of Contents
-- [Portfolio Projects]
+- Portfolio Projects
   - SQL
     - [Covid 19 Data Exploration](https://github.com/careywhite2/Portfolio_Projects/blob/main/SQL%20Covid%20Project)
     - [Retail Sales Analysis](https://github.com/careywhite2/Portfolio_Projects/blob/main/SQL%20Retail%20Sales%20Analysis)
